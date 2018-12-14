@@ -4,7 +4,7 @@ Hello, and welcome to the guideline for creating developer documentation at Adob
 
 # Table of contents
 
-* Overview
+## Overview
     * A short, concise description of the API’s purpose
     * What the API does/what you can do with it
     * Skills/pre-existing knowledge you might need
